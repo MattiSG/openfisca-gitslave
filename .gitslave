@@ -1,3 +1,4 @@
 "https://github.com/openfisca/openfisca-core.git" "openfisca/core"
 "https://github.com/openfisca/openfisca-france.git" "openfisca/france"
 "https://github.com/openfisca/openfisca-parsers.git" "openfisca/parsers"
+"https://github.com/openfisca/openfisca-web-api.git" "openfisca/web-api"
